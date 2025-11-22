@@ -54,11 +54,17 @@ If not installed ➝ Download:
 ###5️⃣Git Commands Used in Project (Version Control)
 ---------------------
  Initialize git repo - `git init` 
+ <br>
  Track changes - `git add .` 
+ <br>
  Save version (commit) - `git commit -m "your message"` 
+ <br>
  Rename main branch - `git branch -M main` 
+ <br>
  Add GitHub remote link - `git remote add origin <repo-url>` 
+ <br>
  Upload code to GitHub - `git push -u origin main`
+ <br>
 
  --------
 
@@ -71,6 +77,7 @@ If not installed ➝ Download:
  --
 
 #2️⃣.Track changes - `git add .` 
+<br>
  Save version (commit) - `git commit -m "your message"`
  <img width="1312" height="1010" alt="image" src="https://github.com/user-attachments/assets/8a70b96d-faa5-4f30-89f4-603b3ba84ff7" />
  <img width="1920" height="607" alt="image" src="https://github.com/user-attachments/assets/f3474ae7-8b65-484d-8daf-dafdcd7488ec" />
@@ -78,11 +85,17 @@ If not installed ➝ Download:
  --
 
 #3️⃣. Rename main branch - `git branch -M main` 
+<br>
  Add GitHub remote link - `git remote add origin <repo-url>` 
+ <br>
  Upload code to GitHub - `git push -u origin main
+ <br>
  <img width="1472" height="1003" alt="image" src="https://github.com/user-attachments/assets/8cc7b65e-adf4-4119-800d-4a70991c5e9a" />
 
  ------------
+
+ FEATURES
+ <BR>
  | Feature | Description |
 |--------|-------------|
 | ➕ Addition | Add two numbers |
