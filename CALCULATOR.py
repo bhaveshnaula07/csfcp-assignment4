@@ -21,7 +21,12 @@ elif choice == "4":
         print("Cannot divide by zero!")
 else:
     print("Invalid choice! Please select 1-4.")
-    
+
+# Simple Calculator Program by <BHAVESH SINGH NAULA>
+print("------- Calculator Ready -------")
+
+
+
 
 
 
